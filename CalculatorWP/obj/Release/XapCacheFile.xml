@@ -1,0 +1,10 @@
+﻿<xapCache source="G:\Visual Studio 2015\C#\CalculatorWP\Bin\Release\CalculatorWP_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="10/14/2016 10:19:45 AM">
+  <file source="G:\Visual Studio 2015\C#\CalculatorWP\obj\Release\CalculatorWP.dll" archivePath="CalculatorWP.dll" lastWriteTime="10/14/2016 10:19:44 AM" />
+  <file source="G:\Visual Studio 2015\C#\CalculatorWP\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="6/6/2014 4:23:03 AM" />
+  <file source="G:\Visual Studio 2015\C#\CalculatorWP\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="10/13/2016 7:29:04 PM" />
+  <file source="G:\Visual Studio 2015\C#\CalculatorWP\Bin\Release\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="6/6/2014 4:23:03 AM" />
+  <file source="G:\Visual Studio 2015\C#\CalculatorWP\Bin\Release\Background.png" archivePath="Background.png" lastWriteTime="6/6/2014 4:23:03 AM" />
+  <file source="G:\Visual Studio 2015\C#\CalculatorWP\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="6/6/2014 4:23:03 AM" />
+  <file source="G:\Visual Studio 2015\C#\CalculatorWP\Background.png" archivePath="Background.png" lastWriteTime="6/6/2014 4:23:03 AM" />
+  <file source="G:\Visual Studio 2015\C#\CalculatorWP\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="10/13/2016 7:29:05 PM" />
+</xapCache>
